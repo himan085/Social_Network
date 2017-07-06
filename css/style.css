@@ -1,0 +1,27 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 12px;
+	background-color:#eff5f9;
+}
+
+.headerMenu{
+	background-color:#5c5cd6;
+	padding: 5px;
+}
+
+
+ul{
+    list-style-type: none;
+   
+}
+li {
+    float: right;
+}
+
+.link {
+    display: block;
+    padding: 8px;
+    color: white;
+}
